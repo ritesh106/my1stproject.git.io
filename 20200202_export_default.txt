@@ -1,0 +1,119 @@
+Grammar	Response	Profile
+Hello	hy Ritesh	main
+Goodbye	good bye Ritesh	main
+Close Jarvis	close jarvis	main
+jarvis	yes	main
+stop talking	ok	main
+whats my name	your name is Ritesh Pradhan	main
+what is my name	your name is Ritesh Pradhan	main
+whats your name	my name is jarvis	main
+what is your name	my name is jarvis	main
+what day is it	check day	main
+what is the day	check day	main
+what is the date	check date	main
+what is the weather like	check weather	main
+what time is it	check time	main
+check the time	check time	main
+whats the weather tomorrow	check forecast	main
+whats the temperature	check temperature	main
+show next window	next window	main
+show previous window	previous window	main
+read this	read this	main
+close tab	close tab	main
+close window	close window	main
+show previous tab	previous tab	main
+show next tab	next tab	main
+get out of the way jarvis	minimize jarvis	main
+move jarvis	minimize jarvis	main
+come back jarvis	show jarvis	main
+jarvis come back	show jarvis	main
+show debug window	debug window on	main
+hide debug window	debug window off	main
+show grammars	show grammars	main
+show my music library	show music library	main
+show my video library	show video library	main
+hide command list	hide commands	main
+hide commands	hide commands	main
+show my customize window	show customize window	main
+add custom commands	show customize window	main
+show settings window	show settings window	main
+settings window	show settings window	main
+check for new emails	check for email	main
+get new emails	check for email	main
+turn screen off	screen off	main
+turn monitor off	screen off	main
+turn monitor on	screen on	main
+turn screen on	screen on	main
+close command prompt	close command prompt	main
+turn volume up	volume up	main
+volume up	volume up	main
+turn volume down	volume down	main
+volume down	volume down	main
+mute volume	mute	main
+mute speakers	mute	main
+unmute volume	unmute	main
+unmute speakers	unmute	main
+make new folder	new folder	main
+make a new folder	new folder	main
+rename folder	rename object	main
+rename file	rename object	main
+rename this folder	rename object	main
+rename this file	rename object	main
+show my desktop	show desktop	main
+toggle to desktop	show desktop	main
+play next song	play next	main
+play next video	play next	main
+play next movie	play next	main
+play previous song	play previous	main
+play previous video	play previous	main
+play previous movie	play previous	main
+play music	playPause	main
+pause music	playPause	main
+play movie	playPause	main
+pause movie	playPause	main
+play video	playPause	main
+pause video	playPause	main
+stop music	stop object	main
+stop video	stop object	main
+stop movie	stop object	main
+degrade your looks	degrade looks	main
+upgrade your looks	upgrade looks	main
+check for an update	update jarvis	main
+jarvis look for an update	update jarvis	main
+do not listen while you speak	do not listen while you speak	main
+listen while you speak	listen while you speak	main
+refresh libraries	refresh libraries	main
+hide grammars	hide grammars	main
+stop listening	stop listening	main
+whats your version	check version	main
+show windows media player	show media player	main
+hide windows media player	hide media player	main
+turn off your sound effects	sound effects off	main
+turn on your sound effects	sound effects on	main
+reload sound effects	reload sound effects	main
+which profile are you using	get profile name	main
+disable speech on options	disable speech on options	main
+enable speech on options	enable speech on options	main
+open backup options	open backup options	main
+open email options	open email options	main
+open emulate options	open emulate options	main
+open main options	open main options	main
+open media options	open media options	main
+open news options	open news options	main
+open skin options	open skin options	main
+open sound options	open sound options	main
+open weather options	open weather options	main
+open web options	open web options	main
+update advance user settings	update advance user settings	main
+enable web requests	enable web requests	main
+disable web requests	disable web requests	main
+hold on jarvis	pause speech	main
+alright, what were you saying	resume speech	main
+jarvis, come back online	start listening	main
+disable push to talk	disable push to talk	main
+enable push to talk	enable push to talk	main
+enable auto updates	enable auto updates	main
+disable auto updates	disable auto updates	main
+enable saving speech	enable saving speech	main
+disable saving speech	disable saving speech	main
+links, stop talking	stop talking	main
